@@ -8,14 +8,10 @@ Here are some ideas to get you started:
 - PHP
 - Python
 - Learn Go & Lua
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValresMC&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
 
-## Here my stats:
-![My Stats](https://github-readme-stats.vercel.app/api?username=Rito&show_icons=true&count_private=true&hide_title=true)
-
-<p><a href="#">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rito&margin-w=28&margin-h=15&theme=radical&hide_border=true">
-</p>
-
-[![GitHub: @Rito](https://img.shields.io/github/followers/Rito?label=follow&style=social)](https://github.com/Rito)
-[![GitHub: @Rito](https://img.shields.io/github/stars/Rito/Rito?style=social)](https://github.com/Rito)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rito)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValresMC&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
