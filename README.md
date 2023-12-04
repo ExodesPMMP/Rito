@@ -1,4 +1,3 @@
-### Hi there 👋
 - 📫 How to reach me: rito.of
 ## Performance:
 - PHP
